@@ -30,3 +30,6 @@ ___
 这是一个引用型链接 [示例][id]
 
 [id]: http://example.com/  "Optional Title Here"
+
+**强调**
+*sing asterisks*
