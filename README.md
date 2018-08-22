@@ -33,3 +33,5 @@ ___
 
 **强调**
 *sing asterisks*
+
+Use the `printf()` function.
