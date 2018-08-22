@@ -31,7 +31,17 @@ ___
 
 [id]: http://example.com/  "Optional Title Here"
 
+[Google][]
+
+[Google]:http://google.com
+
 **强调**
 *sing asterisks*
 
 Use the `printf()` function.
+
+a
+
+b
+
+c
