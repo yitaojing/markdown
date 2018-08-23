@@ -47,3 +47,4 @@ b
 c
 
 - feature-A
+ - fix-B
