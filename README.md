@@ -47,3 +47,6 @@ b
 c
 
 - feature-A
+- d
+- e
+- f
