@@ -46,5 +46,5 @@ b
 
 c
 
-- feature-A
+ - feature-A
  - fix-B
